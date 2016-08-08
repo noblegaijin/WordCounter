@@ -1,0 +1,27 @@
+C:\Users\Jeremy\Documents\Projects\Games\3D Test\Assets\Scripts\Interfaces\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Users\Jeremy\Documents\Projects\Games\3D Test\Assets\Scripts\Interfaces\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+C:\Users\Jeremy\Documents\Projects\Games\3D Test\Assets\Scripts\Interfaces\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\Jeremy\Documents\Projects\Games\3D Test\Assets\Scripts\Interfaces\WordCounter\WordCounter\obj\Debug\WordCounter.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\Documents\Projects\Games\3D Test\Assets\Scripts\Interfaces\WordCounter\WordCounter\obj\Debug\WordCounter.Form1.resources
+C:\Users\Jeremy\Documents\Projects\Games\3D Test\Assets\Scripts\Interfaces\WordCounter\WordCounter\obj\Debug\WordCounter.Properties.Resources.resources
+C:\Users\Jeremy\Documents\Projects\Games\3D Test\Assets\Scripts\Interfaces\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.GenerateResource.Cache
+C:\Users\Jeremy\Documents\Projects\Games\3D Test\Assets\Scripts\Interfaces\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+C:\Users\Jeremy\Documents\Projects\Games\3D Test\Assets\Scripts\Interfaces\WordCounter\WordCounter\obj\Debug\WordCounter.pdb
+C:\Users\Jeremy\Documents\Projects\Visual Studio 2015\Projects\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Users\Jeremy\Documents\Projects\Visual Studio 2015\Projects\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+C:\Users\Jeremy\Documents\Projects\Visual Studio 2015\Projects\WordCounter\WordCounter\obj\Debug\WordCounter.pdb
+C:\Users\Jeremy\Documents\Projects\Visual Studio 2015\Projects\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+C:\Users\Jeremy\Documents\Projects\Visual Studio 2015\Projects\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\Jeremy\Documents\Projects\Visual Studio 2015\Projects\WordCounter\WordCounter\obj\Debug\WordCounter.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\Documents\Projects\Visual Studio 2015\Projects\WordCounter\WordCounter\obj\Debug\WordCounter.Properties.Resources.resources
+C:\Users\Jeremy\Documents\Projects\Visual Studio 2015\Projects\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.GenerateResource.Cache
+C:\Users\Jeremy\Documents\Projects\Visual Studio 2015\Projects\WordCounter\WordCounter\obj\Debug\WordCounter.WordCounter.resources
+C:\Users\likes\Documents\visual studio 2015\Projects\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Users\likes\Documents\visual studio 2015\Projects\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+C:\Users\likes\Documents\visual studio 2015\Projects\WordCounter\WordCounter\obj\Debug\WordCounter.pdb
+C:\Users\likes\Documents\visual studio 2015\Projects\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+C:\Users\likes\Documents\visual studio 2015\Projects\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\likes\Documents\visual studio 2015\Projects\WordCounter\WordCounter\obj\Debug\WordCounter.csprojResolveAssemblyReference.cache
+C:\Users\likes\Documents\visual studio 2015\Projects\WordCounter\WordCounter\obj\Debug\WordCounter.WordCounter.resources
+C:\Users\likes\Documents\visual studio 2015\Projects\WordCounter\WordCounter\obj\Debug\WordCounter.Properties.Resources.resources
+C:\Users\likes\Documents\visual studio 2015\Projects\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.GenerateResource.Cache
